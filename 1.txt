@@ -1,3 +1,4 @@
+
 main  新添加一个1.txt文件
 从远端对git 进行再次修改
 从远端对1.txt文件进行更新
@@ -7,6 +8,3 @@ public static method2() {
 
 }
 添加新的一行
-
-
-测试revert
