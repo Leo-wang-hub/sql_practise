@@ -5,6 +5,10 @@ fix bug4   hahah
 djfi df   hhhhh
 djfi df  hhhh
 这是新的更改remote remotea
+<<<<<<< HEAD
 这是第一个commit
 
 这是第二个commit
+=======
+>>>>>>> parent of 790649f (first commit)
+哈哈哈
