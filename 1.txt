@@ -22,3 +22,4 @@ public static method2() {
 ----------
 现在我要测试git stach 这个命令了
 to be a better man
+这是fixbug的流程
